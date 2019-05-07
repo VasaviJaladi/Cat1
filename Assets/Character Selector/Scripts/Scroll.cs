@@ -4,6 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
+/// <summary>
+/// Name: Vasavi Jaladi
+/// Project : Cats Assignment
+/// Date: 05/06/2019
+/// </summary>
+
 public class Scroll : MonoBehaviour 
 {
     [Header("Select amount of your objects")]
