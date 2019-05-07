@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Name: Vasavi Jaladi
+/// Project: Cat Assignment
+/// Date: 05/06/2019
+/// </summary>
 public class Spawner : MonoBehaviour
 {
 
